@@ -10,6 +10,10 @@ RASS automatically sets up your APACHE web and BIND dns servers.
 
 Just follow the interactive commandline application and you're good to go!
 
+Screenshot
+----------
+![Screenshot](http://i.imgur.com/2JL4fb9.png)
+
 How to run
 ----------
 - Download Rass (Zipped)
@@ -17,11 +21,6 @@ How to run
 - Open your command line and go to the directory where you have extracted RASS
 - then type in your command line: sudo ./rass
 - that's it! Enjoy :D
-
-
-Screenshot
-----------
-![Screenshot](http://i.imgur.com/2JL4fb9.png)
 
 
 How to modify and compile RASS
