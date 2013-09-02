@@ -19,6 +19,8 @@ How to run
 - Download Rass (Zipped)
 - Extract the Zipped file
 - Open your command line and go to the directory where you have extracted RASS
+- Allow the program to run on your machine by changing its file permision:
+  sudo chmod 777 rass
 - then type in your command line: sudo ./rass
 - that's it! Enjoy :D
 
